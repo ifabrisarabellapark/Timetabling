@@ -7,6 +7,7 @@ Input files:
 - SMS Optimal Timetabling Program.ipynb
 - SMS Student Data.xlsx --> Students' course preferences
 - SMS Course Data.xlsx --> Course attributes and teachers' qualifications 
+
 ILP files:
 - SMS Optimal Timetabling Program.ipynb --> simple timetable generator
 - SMS Graph Colouring.ipynb --> timetable generator deploying graph coloring to pre-bundle courses into cohorts
