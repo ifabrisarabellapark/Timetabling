@@ -1,5 +1,10 @@
 # Timetabling
-The files in this repository support the research presented in the academic article: Optimizing Student Course Preferences in School Timetabling by Richard Hoshino and Irene Fabris, which will be officially presented on May 26-29, 2020 at the 17th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operation Research (CPAIOR). These scripts generate the optimal master timetable for the 2019/2020 academic year for St.Margaret's School (SMS), in Victoria, BC, Canada.
+The files in this repository support the research presented in the academic article: 
+
+"Optimizing Student Course Preferences in School Timetabling"
+by Richard Hoshino and Irene Fabris, 
+
+which will be officially presented on May 26-29, 2020 at the 17th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operation Research (CPAIOR). These scripts generate the optimal master timetable for the 2019/2020 academic year for St.Margaret's School (SMS), in Victoria, BC, Canada.
 
 
 ### Content
