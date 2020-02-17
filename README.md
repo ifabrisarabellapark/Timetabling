@@ -15,10 +15,10 @@ ILP files:
 
 ### Prerequisites
 The script relies on the following packages: 
-time 
-numpy 
-pandas 
-networkx 
-grinpy 
-random 
-ortools.linear_solver (pywraplp function)
+- time 
+- numpy 
+- pandas 
+- networkx 
+- grinpy 
+- random 
+- ortools.linear_solver (pywraplp function)
