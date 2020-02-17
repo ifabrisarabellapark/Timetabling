@@ -8,15 +8,24 @@ which will be officially presented on May 26-29, 2020 at the 17th International 
 
 
 ### Content
-Input files:
+SMS Timetabling
+
+1. Input files:
 - SMS Optimal Timetabling Program.ipynb
 - SMS Student Data.xlsx --> Students' course preferences
 - SMS Course Data.xlsx --> Course attributes and teachers' qualifications 
 
-ILP files:
+2. ILP files:
 - SMS Optimal Timetabling Program.ipynb --> simple timetable generator
 - SMS Graph Colouring.ipynb --> timetable generator deploying graph coloring to pre-bundle courses into cohorts
 - SMS Graph Colouring Multiple Trials.ipynb --> timetable generator deploying graph coloring. Multiple attempts are shown.
+
+SMS Proof of Concept
+1. Input file:
+- Input Data.xlsx --> arbitrarily made up Proof of Concept data for students' course preferences
+
+2. ILP file:
+- Proof of Concept.ipynb --> timetable generator
 
 ### Prerequisites
 The script relies on the following packages: 
